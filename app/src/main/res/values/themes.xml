@@ -78,4 +78,5 @@
         <item name="android:fontFamily">sans-serif-medium</item>
     </style>
 
+    <style name="Widget.Violet" />
 </resources>
