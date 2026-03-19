@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Violet Dark Palette -->
+    <color name="bg">#0F0F17</color>
+    <color name="surface">#191926</color>
+    <color name="surface2">#232333</color>
+    <color name="accent">#7861D1</color>
+    <color name="accent2">#A178F2</color>
+    <color name="text">#EBEBF5</color>
+    <color name="subtext">#8C8CA6</color>
+    <color name="border">#333347</color>
+    <color name="success">#59C799</color>
+    <color name="error">#DE6161</color>
+    <color name="accent_dim">#267861D1</color>
+
+    <!-- System -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
