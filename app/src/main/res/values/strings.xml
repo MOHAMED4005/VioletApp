@@ -1,36 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Violet</string>
-    <string name="nav_vertimerge">Vertimerge</string>
-    <string name="nav_zipmaker">Zip Maker</string>
-    <string name="nav_watermark">Watermark</string>
-    <string name="nav_formatter">Format Changer</string>
-    <string name="select_folder">Select Folder</string>
-    <string name="select_file">Select File</string>
-    <string name="start">Start</string>
-    <string name="browse">Browse</string>
-    <string name="input_folder">Input Folder</string>
-    <string name="output_folder">Output Folder</string>
-    <string name="output_format">Output Format</string>
-    <string name="merge_method">Merge Method</string>
-    <string name="by_pixels">By Pixels</string>
-    <string name="by_pages">By Page Count</string>
-    <string name="target_height">Target Height (pixels)</string>
-    <string name="page_count">Number of Output Pages</string>
-    <string name="save_as">Save As</string>
-    <string name="save_images">Images</string>
-    <string name="save_zip">ZIP</string>
-    <string name="chapters_folder">Chapters Folder</string>
-    <string name="start_page">Start Page</string>
-    <string name="end_page">End Page</string>
-    <string name="logo_image">Logo / Watermark Image</string>
-    <string name="chapter_folder">Chapter Folder</string>
-    <string name="images_folder">Images Folder</string>
-    <string name="hint_folder">Tap Browse to select a folder…</string>
-    <string name="hint_file">Tap Browse to select a file…</string>
-    <string name="hint_number">Enter number…</string>
-    <string name="done">✓  Done!</string>
-    <string name="processing">Processing…</string>
-    <string name="err_set_folders">Please set input and output folders.</string>
-    <string name="err_no_images">No images found in the selected folder.</string>
 </resources>
