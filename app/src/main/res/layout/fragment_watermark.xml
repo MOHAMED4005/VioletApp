@@ -33,11 +33,11 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="START PAGE"
-                    style="@style/Widget.Violet.SectionLabel"
+                    style="@style/VioletSectionLabel"
                     android:layout_marginBottom="6dp" />
 
                 <com.google.android.material.textfield.TextInputLayout
-                    style="@style/Widget.Violet.TextInputLayout"
+                    style="@style/VioletTextInput"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content">
 
@@ -55,7 +55,7 @@
 
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/btn_start_page"
-                    style="@style/Widget.Violet.Button.Outlined"
+                    style="@style/VioletButtonOutlined"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Browse"
@@ -73,11 +73,11 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="END PAGE"
-                    style="@style/Widget.Violet.SectionLabel"
+                    style="@style/VioletSectionLabel"
                     android:layout_marginBottom="6dp" />
 
                 <com.google.android.material.textfield.TextInputLayout
-                    style="@style/Widget.Violet.TextInputLayout"
+                    style="@style/VioletTextInput"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content">
 
@@ -95,7 +95,7 @@
 
                 <com.google.android.material.button.MaterialButton
                     android:id="@+id/btn_end_page"
-                    style="@style/Widget.Violet.Button.Outlined"
+                    style="@style/VioletButtonOutlined"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Browse"
@@ -132,7 +132,7 @@
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btn_start"
-            style="@style/Widget.Violet.Button"
+            style="@style/VioletButton"
             android:layout_width="match_parent"
             android:layout_height="52dp"
             android:text="Start"

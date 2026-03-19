@@ -45,7 +45,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="MERGE METHOD"
-            style="@style/Widget.Violet.SectionLabel"
+            style="@style/VioletSectionLabel"
             android:layout_marginBottom="8dp" />
 
         <!-- Method chip group -->
@@ -58,7 +58,7 @@
 
             <com.google.android.material.chip.Chip
                 android:id="@+id/chip_pixels"
-                style="@style/Widget.Violet.Chip"
+                style="@style/VioletChip"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="By Pixels"
@@ -66,7 +66,7 @@
 
             <com.google.android.material.chip.Chip
                 android:id="@+id/chip_pages"
-                style="@style/Widget.Violet.Chip"
+                style="@style/VioletChip"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="By Page Count" />
@@ -85,11 +85,11 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="TARGET HEIGHT (PIXELS)"
-                style="@style/Widget.Violet.SectionLabel"
+                style="@style/VioletSectionLabel"
                 android:layout_marginBottom="8dp" />
 
             <com.google.android.material.textfield.TextInputLayout
-                style="@style/Widget.Violet.TextInputLayout"
+                style="@style/VioletTextInput"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
 
@@ -118,11 +118,11 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="NUMBER OF OUTPUT PAGES"
-                style="@style/Widget.Violet.SectionLabel"
+                style="@style/VioletSectionLabel"
                 android:layout_marginBottom="8dp" />
 
             <com.google.android.material.textfield.TextInputLayout
-                style="@style/Widget.Violet.TextInputLayout"
+                style="@style/VioletTextInput"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
 
@@ -141,7 +141,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="SAVE AS"
-                style="@style/Widget.Violet.SectionLabel"
+                style="@style/VioletSectionLabel"
                 android:layout_marginTop="16dp"
                 android:layout_marginBottom="8dp" />
 
@@ -154,7 +154,7 @@
 
                 <com.google.android.material.chip.Chip
                     android:id="@+id/chip_save_images"
-                    style="@style/Widget.Violet.Chip"
+                    style="@style/VioletChip"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Images"
@@ -162,7 +162,7 @@
 
                 <com.google.android.material.chip.Chip
                     android:id="@+id/chip_save_zip"
-                    style="@style/Widget.Violet.Chip"
+                    style="@style/VioletChip"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="ZIP" />
@@ -183,7 +183,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="OUTPUT FORMAT"
-            style="@style/Widget.Violet.SectionLabel"
+            style="@style/VioletSectionLabel"
             android:layout_marginBottom="8dp" />
 
         <com.google.android.material.chip.ChipGroup
@@ -195,7 +195,7 @@
 
             <com.google.android.material.chip.Chip
                 android:id="@+id/chip_jpg"
-                style="@style/Widget.Violet.Chip"
+                style="@style/VioletChip"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="JPG"
@@ -203,14 +203,14 @@
 
             <com.google.android.material.chip.Chip
                 android:id="@+id/chip_png"
-                style="@style/Widget.Violet.Chip"
+                style="@style/VioletChip"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="PNG" />
 
             <com.google.android.material.chip.Chip
                 android:id="@+id/chip_webp"
-                style="@style/Widget.Violet.Chip"
+                style="@style/VioletChip"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="WEBP" />
@@ -227,7 +227,7 @@
         <!-- Start button -->
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btn_start"
-            style="@style/Widget.Violet.Button"
+            style="@style/VioletButton"
             android:layout_width="match_parent"
             android:layout_height="52dp"
             android:text="Start"

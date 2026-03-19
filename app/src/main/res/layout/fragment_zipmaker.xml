@@ -35,7 +35,7 @@
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btn_start"
-            style="@style/Widget.Violet.Button"
+            style="@style/VioletButton"
             android:layout_width="match_parent"
             android:layout_height="52dp"
             android:text="Start"

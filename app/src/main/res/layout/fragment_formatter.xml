@@ -33,7 +33,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="OUTPUT FORMAT"
-            style="@style/Widget.Violet.SectionLabel"
+            style="@style/VioletSectionLabel"
             android:layout_marginTop="20dp"
             android:layout_marginBottom="8dp" />
 
@@ -46,7 +46,7 @@
 
             <com.google.android.material.chip.Chip
                 android:id="@+id/chip_jpg"
-                style="@style/Widget.Violet.Chip"
+                style="@style/VioletChip"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="JPG"
@@ -54,14 +54,14 @@
 
             <com.google.android.material.chip.Chip
                 android:id="@+id/chip_png"
-                style="@style/Widget.Violet.Chip"
+                style="@style/VioletChip"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="PNG" />
 
             <com.google.android.material.chip.Chip
                 android:id="@+id/chip_webp"
-                style="@style/Widget.Violet.Chip"
+                style="@style/VioletChip"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="WEBP" />
@@ -76,7 +76,7 @@
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btn_start"
-            style="@style/Widget.Violet.Button"
+            style="@style/VioletButton"
             android:layout_width="match_parent"
             android:layout_height="52dp"
             android:text="Start"

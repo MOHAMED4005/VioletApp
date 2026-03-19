@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="LABEL"
-        style="@style/Widget.Violet.SectionLabel"
+        style="@style/VioletSectionLabel"
         android:layout_marginBottom="6dp" />
 
     <LinearLayout
@@ -20,7 +20,7 @@
         android:gravity="center_vertical">
 
         <com.google.android.material.textfield.TextInputLayout
-            style="@style/Widget.Violet.TextInputLayout"
+            style="@style/VioletTextInput"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -41,7 +41,7 @@
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/btn_browse"
-            style="@style/Widget.Violet.Button.Outlined"
+            style="@style/VioletButtonOutlined"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Browse"

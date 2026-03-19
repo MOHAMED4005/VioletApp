@@ -35,7 +35,7 @@
         <!-- Vertimerge card -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/card_vertimerge"
-            style="@style/Widget.Violet.Card"
+            style="@style/VioletCard"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="12dp"
@@ -93,7 +93,7 @@
         <!-- Zip Maker card -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/card_zipmaker"
-            style="@style/Widget.Violet.Card"
+            style="@style/VioletCard"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="12dp"
@@ -151,7 +151,7 @@
         <!-- Watermark card -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/card_watermark"
-            style="@style/Widget.Violet.Card"
+            style="@style/VioletCard"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="12dp"
@@ -209,7 +209,7 @@
         <!-- Photo Format Changer card -->
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/card_formatter"
-            style="@style/Widget.Violet.Card"
+            style="@style/VioletCard"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="12dp"
